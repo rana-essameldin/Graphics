@@ -1,0 +1,16 @@
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\bin\Debug\Graphic_package.exe.config
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\bin\Debug\Graphic_package.exe
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\bin\Debug\Graphic_package.pdb
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\obj\Debug\Graphic_package.csproj.AssemblyReference.cache
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\obj\Debug\Graphic_package.Form1.resources
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\obj\Debug\Graphic_package.Properties.Resources.resources
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\obj\Debug\Graphic_package.csproj.GenerateResource.cache
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\obj\Debug\Graphic_package.csproj.CoreCompileInputs.cache
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\obj\Debug\Graphic_package.exe
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\obj\Debug\Graphic_package.pdb
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\obj\Debug\Graphic_package.circle.resources
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\obj\Debug\Graphic_package.elipse.resources
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\obj\Debug\Graphic_package.transform.resources
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\obj\Debug\Graphic_package.line_DDA.resources
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\obj\Debug\Graphic_package.lineBelengham.resources
+D:\faculty CS and AI\level 3\2nd semester\graphics\Graphics package\Graphic_package\Graphic_package\obj\Debug\Graphic_package.DrawALL.resources
